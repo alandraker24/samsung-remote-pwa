@@ -1,0 +1,19 @@
+{
+  "name": "Samsung Remote - Control Smart TV",
+  "short_name": "Samsung Remote",
+  "description": "Control remoto web para televisores Samsung compatibles.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d17",
+  "theme_color": "#080d17",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "es-MX"
+}
